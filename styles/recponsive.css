@@ -31,4 +31,31 @@
         height: 100%;
     }
 
+    .footer-title img{
+       width: 20%;
+    }
+
+    .main-letter {
+        flex-direction: column;
+    }
+
+    .first-letter{
+        padding-left: 55px;
+    }
+
+    .img-container-letter{
+        margin-top: 40px;
+    }
+
+    .section-nam {
+        display: none;
+    }
+    
+    .container-nam{
+        display: none;
+    }
+    
+    .container-4{
+        display: none;
+    }
 }
