@@ -58,4 +58,13 @@
     .container-4{
         display: none;
     }
+
+    .banner-input input {
+        display: none;
+    }
+    
+    .input-btn {
+       display: none;
+    }
+    
 }
